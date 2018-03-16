@@ -1,5 +1,6 @@
 {
   "name": "ckfrontend",
+  "author": "Shoan Chikato",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
